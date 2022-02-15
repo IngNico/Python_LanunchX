@@ -1,0 +1,42 @@
+Planeta		Distancia al sol
+Mercurio		57900000
+Venus		108200000
+Tierra		149600000
+Marte		227900000
+Júpiter		778600000
+Saturno		1433500000
+Urano		2872500000
+Neptuno		4495100000
+
+Operación	     Kilometros		Millas
+
+Mercurio - Venus	=  50300000 		31236300
+Mercurio - Tierra	=  91700000		56945700
+Mercurio - Marte	=  170000000		105570000
+Mercurio - Jupiter	=  720700000		447554700
+Mercurio - Saturno=  1375600000		854247600
+Mercurio - Urano     =  2814600000		1747866600
+Mercurio - Neptuno	=  4437200000		2755501200
+Venus - Tierra	=  41400000		25709400
+Venus - Marte	=  119700000		74333700
+Venus - Jupiter	=  670400000		416318400
+Venus - Saturno	=  1325300000		823011300
+Venus - Urano	=  2764300000		1716630300
+Venus - Neptuno	=  4386900000		2724264900
+Tierra - Marte	=  78300000		48624300
+Tierra - Jupiter	=  629000000		390609000
+Tierra - Saturno	=  1283900000		797301900
+Tierra - Urano	=  2722900000		1690920900
+Tierra - Neptuno	=  4345500000		2698555500
+Marte - Jupiter	=  550700000		341984700
+Marte - Saturno	=  1205600000		748677600
+Marte - Urano	=  2644600000		1642296600
+Marte - Neptuno	=  4267200000		2649931200
+Jupiter - Saturno	=  654900000		406692900
+Jupiter - Urano	=  2093900000		1300311900
+Jupiter - Neptuno	=  3716500000		2307946500
+Saturno - Urano	=  1439000000		893619000
+Saturno - Neptuno	=  3061600000		1901253600
+Urano - Neptuno	=  1622600000		1007634600
+
+
